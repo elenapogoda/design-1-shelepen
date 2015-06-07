@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1350"
+   height="3272.3601"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="shelepen.svg"
+   inkscape:export-filename="/home/elena/Документи/Documents/Работа/Designer/Web_peppers/shelepen_landing_page.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="544.26497"
+     inkscape:cy="1038.6976"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3004"
+       empspacing="10"
+       visible="false"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg"
+     style="display:inline">
+    <image
+       style="opacity:0.95999995;fill:#cccccc;display:inline"
+       y="48.610107"
+       x="0"
+       id="image4369"
+       xlink:href="file:///home/elena/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/Documents/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/Designer/shelepen_landing_page/World_Others_Blue_town_007667_.jpg"
+       height="663.75"
+       width="1350" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="bg_shadow"
+     style="opacity:0.5">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect4405"
+       width="1350"
+       height="663.75"
+       x="0"
+       y="50.979774" />
+    <rect
+       y="50.979774"
+       x="0"
+       height="663.75"
+       width="1350"
+       id="rect4641"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:label="header"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2219.9973)"
+     style="opacity:0.95999995;display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Arial Bold"
+       x="348.1875"
+       y="-1817.6371"
+       id="text4022"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4024"
+         x="348.1875"
+         y="-1817.6371"
+         style="font-size:64px;font-weight:bold;-inkscape-font-specification:Arial Bold"><tspan
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="tspan4026"><tspan
+   style="fill:#0048d8;fill-opacity:1"
+   id="tspan4309">WEB</tspan> DEVELOPMENT</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="530.77124"
+       y="-1745.6371"
+       id="text4030"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4032"
+         x="530.77124"
+         y="-1745.6371"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L">We improve your business!</tspan></text>
+    <g
+       id="g4676">
+      <rect
+         ry="10.000036"
+         y="-1665.6371"
+         x="575"
+         height="60"
+         width="200"
+         id="rect4034"
+         style="fill:#0048d8;fill-opacity:1;stroke:none"
+         rx="10.000036" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4036"
+         y="-1629.175"
+         x="616.45557"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+         xml:space="preserve"><tspan
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+           y="-1629.175"
+           x="616.45557"
+           id="tspan4038"
+           sodipodi:role="line">CONTACT US</tspan></text>
+    </g>
+    <rect
+       style="fill:#3f7fff;fill-opacity:1;stroke:none"
+       id="rect3910"
+       width="1350"
+       height="50"
+       x="0"
+       y="-2219.9973" />
+    <g
+       id="g4045"
+       transform="translate(80,-219.99974)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3912"
+         y="-1969.9716"
+         x="322"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+         xml:space="preserve"><tspan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold"
+           y="-1969.9716"
+           x="322"
+           id="tspan3914"
+           sodipodi:role="line">ABOUT US</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+         x="416"
+         y="-1969.9716"
+         id="text3938"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3940"
+           x="416"
+           y="-1969.9716"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold">HOW WE DO THAT</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3942"
+         y="-1969.9716"
+         x="562"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+         xml:space="preserve"><tspan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold"
+           y="-1969.9716"
+           x="562"
+           id="tspan3944"
+           sodipodi:role="line">OUR TEAM</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+         x="658"
+         y="-1969.9716"
+         id="text3946"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3948"
+           x="658"
+           y="-1969.9716"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold">CASE STUDIES</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3950"
+         y="-1969.9716"
+         x="780"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+         xml:space="preserve"><tspan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold"
+           y="-1969.9716"
+           x="780"
+           id="tspan3952"
+           sodipodi:role="line">GET IN TOUCH</tspan></text>
+    </g>
+    <path
+       transform="matrix(0.09652371,0,0,0.09655439,554.5252,-2052.5446)"
+       d="m 220,214 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       sodipodi:ry="30"
+       sodipodi:rx="30"
+       sodipodi:cy="214"
+       sodipodi:cx="190"
+       id="path3991"
+       style="fill:#000080;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000080;stroke:none"
+       id="path4001"
+       sodipodi:cx="190"
+       sodipodi:cy="214"
+       sodipodi:rx="30"
+       sodipodi:ry="30"
+       d="m 220,214 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       transform="matrix(0.09652371,0,0,0.09655439,612.36764,-2052.2509)" />
+    <path
+       transform="matrix(0.09652371,0,0,0.09655439,612.36764,-1994.0963)"
+       d="m 220,214 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       sodipodi:ry="30"
+       sodipodi:rx="30"
+       sodipodi:cy="214"
+       sodipodi:cx="190"
+       id="path4003"
+       style="fill:#000080;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000080;stroke:none"
+       id="path4005"
+       sodipodi:cx="190"
+       sodipodi:cy="214"
+       sodipodi:rx="30"
+       sodipodi:ry="30"
+       d="m 220,214 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
+       transform="matrix(0.09652371,0,0,0.09655439,554.23159,-1994.0963)" />
+    <g
+       style="display:inline"
+       inkscape:label="Layer all"
+       id="layer2-2"
+       transform="matrix(1.1476094,0,0,1.1476094,543.98806,-3168.4669)" />
+    <g
+       id="g3627">
+      <g
+         id="g3147"
+         transform="matrix(0.11582845,0,0,0.11586527,546.60474,-2063.8331)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff0000;stroke:none"
+           d="m 480,285.04968 c -71.79702,0 -130,58.20298 -130,130 0,32.17531 11.69934,61.61229 31.0625,84.3125 l 58.0625,-15.5625 C 415.70772,469.84436 400,444.28975 400,415.04968 c 0,-44.18278 35.81722,-80 80,-80 38.00248,0 69.78089,26.50375 77.9375,62.03125 l 50.84375,0 C 600.0339,333.78353 545.70322,285.04968 480,285.04968 z"
+           id="path3070" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffff00;stroke:none"
+           d="m 578.9375,541.36218 -56.28125,15.09375 0,1.53125 C 545.10896,572.15365 560,597.16328 560,625.67468 c 0,44.18278 -35.81722,80 -80,80 -39.43722,0 -72.19625,-28.54324 -78.78125,-66.09375 l -50.5,0 C 357.66234,704.8351 412.90363,755.67468 480,755.67468 c 71.79702,0 130,-58.20298 130,-130 0,-32.18029 -11.69396,-61.61086 -31.0625,-84.3125 z"
+           id="path3843" />
+        <g
+           style="fill:#ff6600;stroke:#ff6600"
+           id="g3984">
+          <path
+             transform="matrix(0.32564129,0,0,0.32564129,581.31579,333.09038)"
+             d="m -234.35539,575.08618 c 0,42.39978 -34.37181,76.77159 -76.77159,76.77159 -42.39978,0 -76.77159,-34.37181 -76.77159,-76.77159 0,-42.39978 34.37181,-76.77159 76.77159,-76.77159 42.39978,0 76.77159,34.37181 76.77159,76.77159 z"
+             sodipodi:ry="76.771591"
+             sodipodi:rx="76.771591"
+             sodipodi:cy="575.08618"
+             sodipodi:cx="-311.12698"
+             id="path3919"
+             style="fill:#ff6600;stroke:#ff6600"
+             sodipodi:type="arc" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#ff6600;stroke:#ff6600;stroke-width:3.0544579"
+             d="M 479.59375,37.0625 466.125,284 493.0625,284 479.59375,37.0625 z M 461.75,364 l -5.625,103.3125 46.9375,0 L 497.4375,364 461.75,364 z"
+             transform="translate(0,-11.637817)"
+             id="path3941" />
+          <path
+             inkscape:connector-curvature="0"
+             inkscape:label="Triangle"
+             style="fill:#ff6600;stroke:#ff6600;stroke-width:3.0544579"
+             d="m 544.07353,496.70132 0,46.94555 430.27337,-23.47278 -430.27337,-23.47277 z"
+             id="path3966" />
+          <path
+             id="path3975"
+             d="m 416.89104,498.49378 0,46.94555 -430.273371,-23.47278 430.273371,-23.47277 z"
+             style="fill:#ff6600;stroke:#ff6600;stroke-width:3.0544579"
+             inkscape:label="Triangle"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path3982"
+             d="m 483.17868,1014.9231 -13.46875,-246.9376 26.9375,0 -13.46875,246.9376 z m -17.84375,-326.9376 -5.625,-103.31249 46.9375,0 -5.625,103.31249 -35.6875,0 z"
+             style="fill:#ff6600;stroke:#ff6600;stroke-width:3.0544579"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3529"
+         y="-1979.6372"
+         x="586.8205"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+         xml:space="preserve"><tspan
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold"
+           y="-1979.6372"
+           x="586.8205"
+           id="tspan3531"
+           sodipodi:role="line">   helepen</tspan></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3533"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+       transform="translate(0,-2219.9973)"><flowRegion
+         id="flowRegion3535"><rect
+           id="rect3537"
+           width="13.654141"
+           height="20.481213"
+           x="105.8196"
+           y="-64.939606" /></flowRegion><flowPara
+         id="flowPara3539" /></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="do"
+     transform="translate(0,1219.9995)"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3834"
+       width="1350"
+       height="400"
+       x="0"
+       y="-508.16116" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0048d8;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="504.07031"
+       y="-459.63968"
+       id="text3836"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3838"
+         x="504.07031"
+         y="-459.63968">HOW WE DO THAT?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="476.92871"
+       y="-408.63947"
+       id="text4236"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4238"
+         x="476.92871"
+         y="-408.63947">WE ARE PLANNING SITE ARCHITECTURE</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4240"
+       y="-296.63947"
+       x="506.36719"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="-296.63947"
+         x="506.36719"
+         id="tspan4242"
+         sodipodi:role="line">WE CREATE DESIGN ELEMENTS AND SITES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="411.44531"
+       y="-262.63947"
+       id="text4244"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4246"
+         x="411.44531"
+         y="-262.63947">WE  DO CONTENT MANAGEMENT AND TRANSLATIONS</tspan></text>
+    <rect
+       style="fill:#0048d8;fill-opacity:1;stroke:none"
+       id="rect4248"
+       width="350"
+       height="60"
+       x="500"
+       y="-207.63947"
+       ry="9.999999"
+       rx="9.999999" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+       x="548.83319"
+       y="-171.15047"
+       id="text4250"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4252"
+         x="548.83319"
+         y="-171.15047"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold">NEED MORE INFORMATION?</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4681"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+       transform="translate(0,-1219.9995)"><flowRegion
+         id="flowRegion4683"><rect
+           id="rect4685"
+           width="2.2756903"
+           height="21.619057"
+           x="773.73468"
+           y="963.67236" /></flowRegion><flowPara
+         id="flowPara4687">a</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text4689"
+       y="-370.63947"
+       x="486.77734"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="-370.63947"
+         x="486.77734"
+         id="tspan4691"
+         sodipodi:role="line">WE COMMUNICATE WITH CUSTOMERS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="457.18262"
+       y="-332.63947"
+       id="text4693"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4695"
+         x="457.18262"
+         y="-332.63947">WE DEVELOP THE LAYOUT AND PROTOTYPE</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4697"
+       y="-228.63947"
+       x="607.9834"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="-228.63947"
+         x="607.9834"
+         id="tspan4699"
+         sodipodi:role="line">WE SUPPORT</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="team"
+     transform="translate(0,1219.9995)"
+     style="display:inline">
+    <rect
+       style="fill:#2c2c2c;fill-opacity:1;stroke:none"
+       id="rect3841"
+       width="1350"
+       height="500"
+       x="0"
+       y="-106.95218" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0048d8;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Arial Bold"
+       x="579.46289"
+       y="250.36032"
+       id="text3843"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3845"
+         x="579.46289"
+         y="250.36032"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#0048d8;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold">OUR TEAM</tspan></text>
+    <path
+       style="fill:#fcfc10;fill-opacity:1;stroke:#fa9117;stroke-width:0.76014680000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 675.26856,-35.759401 c -30.40587,0 -30.40587,45.6088087 0,45.6088087 30.40587,0 30.40587,-45.6088087 0,-45.6088087 z"
+       id="path4267"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:#fcfc10;fill-opacity:1;stroke:none;stroke-width:0.76014680000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 629.65975,122.35114 0,-75.347501 c -1.31992,-14.767525 1.61585,-28.032466 15.20294,-28.032466 l 62.33204,0 c 18.49966,-1.777756 15.20293,17.612525 15.20293,34.482539 l 0,68.897428 -22.8044,0 0,25.62706 c 1.18701,17.73802 -1.03881,24.54263 -17.77109,24.54263 l -12.93177,0 c -15.54769,1.42375 -14.90595,-9.20295 -14.90595,-23.46763 l 0,-26.70206 z"
+       id="path4269"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path4283"
+       d="m 767.48694,-3.57871 c -21.35049,0 -21.35049,32.02572 0,32.02572 21.35049,0 21.35049,-32.02572 0,-32.02572 z"
+       style="fill:#696969;fill-opacity:1;stroke:#757575;stroke-width:0.53376228000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4285"
+       d="m 735.46121,107.44383 0,-52.90774 c -0.92683,-10.3695 1.13462,-19.68392 10.67524,-19.68392 l 43.76851,0 c 12.99015,-1.24831 10.67525,12.36721 10.67525,24.21305 l 0,48.37861 -16.01288,0 0,17.99489 c 0.83351,12.45534 -0.72943,17.23342 -12.47856,17.23342 l -9.08046,0 c -10.91732,0.99974 -10.46671,-6.46215 -10.46671,-16.47857 l 0,-18.74974 z"
+       style="fill:#696969;fill-opacity:1;stroke:#757575;stroke-width:0.53376228000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#696969;fill-opacity:1;stroke:#757575;stroke-width:0.53376228000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 581.48694,-3.5787144 c -21.35049,0 -21.35049,32.0257284 0,32.0257284 21.35049,0 21.35049,-32.0257284 0,-32.0257284 z"
+       id="path4301"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:#696969;fill-opacity:1;stroke:#757575;stroke-width:0.53376228000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 549.4612,107.44383 0,-52.907743 c -0.92682,-10.369501 1.13463,-19.683919 10.67525,-19.683919 l 43.76851,0 c 12.99015,-1.248313 10.67524,12.367214 10.67524,24.213056 l 0,48.378606 -16.01287,0 0,17.99489 c 0.83351,12.45534 -0.72943,17.23342 -12.47856,17.23342 l -9.08046,0 c -10.91733,0.99974 -10.46671,-6.46215 -10.46671,-16.47857 l 0,-18.74974 z"
+       id="path4303"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4316"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       transform="translate(-227.45109,-1185.2592)"><flowRegion
+         id="flowRegion4318"><rect
+           id="rect4320"
+           width="830"
+           height="129.25964"
+           x="500"
+           y="1412.3601"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L" /></flowRegion><flowPara
+         id="flowPara4322" /><flowPara
+         id="flowPara4324" /><flowPara
+         id="flowPara4328">Viktor and Elena are founders of the company. We are also employers of the company. </flowPara><flowPara
+         id="flowPara3181">We are persons of different branches of life and can consult you how to create and support your business in wide world of Internet. </flowPara><flowPara
+         id="flowPara4330" /><flowPara
+         id="flowPara4332" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4334"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"><flowRegion
+         id="flowRegion4336"><rect
+           id="rect4338"
+           width="65"
+           height="21"
+           x="267"
+           y="1412.3601" /></flowRegion><flowPara
+         id="flowPara4340" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4342"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"><flowRegion
+         id="flowRegion4344"><rect
+           id="rect4346"
+           width="8"
+           height="39"
+           x="323"
+           y="1392.3601" /></flowRegion><flowPara
+         id="flowPara4348" /></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="examples"
+     transform="translate(0,1219.9995)"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3949"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"><flowRegion
+         id="flowRegion3951"><rect
+           id="rect3953"
+           width="702"
+           height="151"
+           x="290"
+           y="1871.3601" /></flowRegion><flowPara
+         id="flowPara3955" /></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3848"
+       width="1350"
+       height="500"
+       x="0"
+       y="392.18073" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0048d8;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+       x="542.90918"
+       y="434.36029"
+       id="text3850"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3852"
+         x="542.90918"
+         y="434.36029"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0048d8;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">CASE STUDIES</tspan></text>
+    <image
+       y="745.36053"
+       x="120"
+       id="image4148"
+       xlink:href="file:///home/elena/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/Documents/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/Designer/Web_peppers/dr_camp.png"
+       height="39"
+       width="100" />
+    <image
+       y="442.3606"
+       x="120"
+       id="image3334"
+       xlink:href="file:///home/elena/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/Documents/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/Designer/shelepen_landing_page/ihub.png"
+       height="80"
+       width="80" />
+    <image
+       y="542.3606"
+       x="120.20613"
+       id="image3396"
+       xlink:href="file:///home/elena/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/Documents/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/Designer/shelepen_landing_page/lviv_dr.jpg"
+       height="79.793869"
+       width="79.793869" />
+    <image
+       y="652.3606"
+       x="110"
+       id="image3458"
+       xlink:href="file:///home/elena/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/Documents/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/Designer/shelepen_landing_page/d8%204x3_0.png"
+       height="73.5"
+       width="98" />
+    <g
+       id="g4457"
+       transform="translate(0,16)">
+      <flowRoot
+         transform="translate(-2,-1201.9996)"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+         id="flowRoot3161"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3163"><rect
+             y="1745.3601"
+             x="269"
+             height="54"
+             width="653"
+             id="rect3165" /></flowRegion><flowPara
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+           id="flowPara3167">What did the client require?</flowPara></flowRoot>      <g
+         transform="translate(-2,-84)"
+         id="g4427">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4151"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+           transform="translate(0,-1221.9996)"><flowRegion
+             id="flowRegion4153"><rect
+               id="rect4155"
+               width="370"
+               height="34.000031"
+               x="270"
+               y="1972.3601"
+               style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L" /></flowRegion><flowPara
+             id="flowPara4157">How did we help them?</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4159"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+           transform="translate(0,-1217.9996)"><flowRegion
+             id="flowRegion4161"><rect
+               id="rect4163"
+               width="840"
+               height="69"
+               x="270"
+               y="2013.3601"
+               style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L" /></flowRegion><flowPara
+             id="flowPara4169">We investigate your business together and create tools for your business, support it and modify it under changable conditions. So we earn money by making your business efficient. We almost always use open source tehnologies. It helps us to work legally. It reduces money usage.</flowPara></flowRoot>      </g>
+      <g
+         transform="translate(-8,0)"
+         id="g4437">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3140"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+           transform="translate(0,-1217.9996)"><flowRegion
+             id="flowRegion3142"><rect
+               id="rect3144"
+               width="998"
+               height="89"
+               x="272"
+               y="1673.3601"
+               style="fill:#333333;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara3146"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"> “Shelepen” is a small ukrainian company, located in Chernihiv, Ukraine.</flowPara></flowRoot>        <g
+           transform="translate(10,-179.99999)"
+           style="display:inline"
+           id="g3525">
+          <path
+             sodipodi:nodetypes="csc"
+             inkscape:connector-curvature="0"
+             id="path4023"
+             d="m 276.48693,700.70001 c -3.64556,0 -3.64556,5.46834 0,5.46834 3.64557,0 3.64557,-5.46834 0,-5.46834 z"
+             style="fill:#333333;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             style="fill:#333333;fill-opacity:1;stroke:none;display:inline"
+             d="m 276.98693,686.70001 c -3.64556,0 -3.64556,5.46834 0,5.46834 3.64557,0 3.64557,-5.46834 0,-5.46834 z"
+             id="path4025"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="csc" />
+          <flowRoot
+             transform="translate(-1,-1221.1622)"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+             id="flowRoot3489"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3491"><rect
+                 y="1871.3601"
+                 x="271"
+                 height="91"
+                 width="789"
+                 id="rect3493" /></flowRegion><flowPara
+               id="flowPara3495">Drupal 8 Road. We try Drupal 8. We help the society. Help us. Support our sandboxes:</flowPara><flowPara
+               id="flowPara3497" /><flowPara
+               id="flowPara3499">    Styleguide,</flowPara><flowPara
+               id="flowPara3501">    bxSlider.</flowPara></flowRoot>        </g>
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4419"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         transform="translate(0,-1414.4857)"><flowRegion
+           id="flowRegion4421"><rect
+             id="rect4423"
+             width="840"
+             height="69"
+             x="270"
+             y="2013.3601"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L" /></flowRegion><flowPara
+           id="flowPara4425">Our clients need sites for promotion their business. We investigate it together and create design elements and individual site. We earn money by making your business efficient. We are planning site architecture and develop the layout and prototype.</flowPara></flowRoot>    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="map"
+     transform="translate(0,1219.9995)">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+       x="444.49219"
+       y="1246.3604"
+       id="text3899"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3901"
+         x="444.49219"
+         y="1246.3604"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial" /></text>
+    <image
+       y="890.3606"
+       x="0"
+       id="image4638"
+       xlink:href="file:///home/elena/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/Documents/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/Designer/shelepen_landing_page/map_2.png"
+       height="522"
+       width="1350" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="bg_contact"
+     id="g4646"
+     inkscape:groupmode="layer">
+    <image
+       width="1350"
+       height="663.75"
+       xlink:href="file:///home/elena/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/Documents/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/Designer/shelepen_landing_page/World_Others_Blue_town_007667_.jpg"
+       id="image4648"
+       x="0"
+       y="2508.6101"
+       style="opacity:0.95999995;fill:#cccccc;display:inline" />
+  </g>
+  <g
+     style="opacity:0.5"
+     inkscape:label="bg_shadow_contact"
+     id="g4650"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect4654"
+       width="1350"
+       height="663.75"
+       x="0"
+       y="2508.7629" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="contacts"
+     transform="translate(0,219.99968)">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0048d8;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+       x="547.35645"
+       y="2338.3601"
+       id="text3906"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3908"
+         x="547.35645"
+         y="2338.3601"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0048d8;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">GET IN TOUCH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+       x="329"
+       y="2379.3604"
+       id="text4282"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4284"
+         x="329"
+         y="2379.3604"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L">YOUR NAME</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4295"
+       y="2471.3604"
+       x="329"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+       xml:space="preserve"><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         y="2471.3604"
+         x="329"
+         id="tspan4297"
+         sodipodi:role="line">YOUR E-MAIL ADDRESS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+       x="329"
+       y="2565.3604"
+       id="text4304"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4306"
+         x="329"
+         y="2565.3604"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L">SUBJECT</tspan></text>
+    <rect
+       rx="1.8000488"
+       ry="1.9999707"
+       y="2679.3604"
+       x="324"
+       height="120"
+       width="699.80005"
+       id="rect4310"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4312"
+       y="2657.3604"
+       x="329"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+       xml:space="preserve"><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         y="2657.3604"
+         x="329"
+         id="tspan4314"
+         sodipodi:role="line">MESSAGE</tspan></text>
+    <rect
+       ry="10.000036"
+       y="2813.8982"
+       x="324.54443"
+       height="60"
+       width="200"
+       id="rect4399"
+       style="fill:#0048d8;fill-opacity:1;stroke:none"
+       rx="10.000036" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4401"
+       y="2850.3601"
+       x="352.51926"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play"
+       xml:space="preserve"><tspan
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         y="2850.3601"
+         x="352.51926"
+         id="tspan4403"
+         sodipodi:role="line">SEND MESSAGE</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3164"
+       width="700"
+       height="35"
+       x="325"
+       y="2404.8293"
+       rx="2"
+       ry="1.9999707" />
+    <rect
+       ry="1.9999707"
+       rx="2"
+       y="2500.8293"
+       x="325"
+       height="35"
+       width="700"
+       id="rect3166"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3171"
+       width="700"
+       height="35"
+       x="325"
+       y="2592.8293"
+       rx="2"
+       ry="1.9999707" />
+    <rect
+       style="fill:#eeeeee;fill-opacity:1;stroke:none"
+       id="rect4322"
+       width="699.80005"
+       height="11"
+       x="324"
+       y="2780.3604"
+       ry="8.9999704"
+       rx="8.9999704" />
+    <g
+       id="g4330"
+       transform="translate(143.90002,-214)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4324"
+         d="m 520,2996.3603 20,0"
+         style="fill:none;stroke:#bbbbbb;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#bbbbbb;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 520,2998.3603 20,0"
+         id="path4326"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4328"
+         d="m 520,3000.3603 20,0"
+         style="fill:none;stroke:#bbbbbb;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="footer"
+     transform="translate(0,219.99989)">
+    <rect
+       style="fill:#191919;fill-opacity:1;stroke:none"
+       id="rect4459"
+       width="1350"
+       height="100"
+       x="0"
+       y="2952.3601"
+       rx="0"
+       ry="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4461"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       transform="translate(203.24194,-205.99989)"><flowRegion
+         id="flowRegion4463"><rect
+           id="rect4465"
+           width="698"
+           height="60"
+           x="380"
+           y="3192.3601"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L" /></flowRegion><flowPara
+         id="flowPara4467">Copyright © 2015 <flowSpan
+   style="fill:#0048d8;fill-opacity:1"
+   id="flowSpan4471">Shelepen</flowSpan></flowPara><flowPara
+         id="flowPara4469">      All Rights Reserved</flowPara></flowRoot>  </g>
+</svg>
